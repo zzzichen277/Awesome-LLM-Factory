@@ -1,0 +1,8 @@
+1.面向开发者的 LLM 入门课程：https://github.com/datawhalechina/prompt-engineering-for-developers 
+简介：一个中文版的大模型入门教程，围绕吴恩达老师的大模型系列课程展开，主要包括：吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，吴恩达《Building Systems with the ChatGPT API》课程中文版，吴恩达《LangChain for LLM Application Development》课程中文版等。
+
+2.提示工程指南:https://www.promptingguide.ai/zh
+简介：该项目基于对大语言模型的浓厚兴趣，编写了这份全新的提示工程指南，介绍了大语言模型相关的论文研究、学习指南、模型、讲座、参考资料、大语言模型能力以及与其他与提示工程相关的工具。
+
+3.awesome-chatgpt-prompts-zh：https://github.com/PlexPt/awesome-chatgpt-prompts-zh 
+简介：该项目是ChatGPT中文调教指南。包括各种场景使用指南，让chatgpt知道怎么听你的话，对指令构造可以提供一些参考。
