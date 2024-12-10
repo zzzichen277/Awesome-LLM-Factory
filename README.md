@@ -4,30 +4,53 @@
 
 ### 训练框架
 
-1.
+1.Megatron:https://github.com/NVIDIA/Megatron-LM
 
-2.deepspeed:https://www.deepspeed.ai/tutorials/
-<br>
+2.Deepspeed:https://www.deepspeed.ai/tutorials/
+
 官方文档：https://www.deepspeed.ai/docs/config-json/
 
 
 ---
 ### 微调框架
-- 1.LLaMA-Factory：https://github.com/hiyouga/LLaMA-Factory
+1.LLaMA-Factory：https://github.com/hiyouga/LLaMA-Factory
 
-- 2.Xtuner:
+2.Xtuner:https://github.com/InternLM/xtuner
 
 ---
 ### 推理框架
 
-1.vLLM：：https://github.com/vllm-project/vllm
+1.vLLM：https://github.com/vllm-project/vllm
+
+2.TensorRT-LLM：https://github.com/NVIDIA/TensorRT-LLM
+
+3.SGLang：https://github.com/sgl-project/sglang
 
 ---
 ### 评估框架
+1.opencompass：https://github.com/open-compass/opencompass/blob/main/README_zh-CN.md
+
+opencompass官方文档：https://opencompass.readthedocs.io/zh-cn/latest/
+
+opencompass评测榜单：https://rank.opencompass.org.cn/home
+
+2.ragas：https://github.com/explodinggradients/ragas
+
+ragas官方文档：https://docs.ragas.io/en/stable/
+
+### 评估基准
+
+1.AlignBench：https://github.com/THUDM/AlignBench
 
 
 ---
 ### RAG开源项目
+1.GraphRAG：https://github.com/microsoft/graphrag
+
+2.RAGFlow：https://github.com/infiniflow/ragflow
+
+3.
+
 
 
 ---
@@ -36,9 +59,21 @@
 
 AutoGen官方文档：https://microsoft.github.io/autogen/0.2/docs/Getting-Started
 
-2.
+2.MetaGPT：https://github.com/geekan/MetaGPT
+
+MetaGPT中文文档：https://github.com/geekan/MetaGPT/blob/main/docs/README_CN.md
+
+3.AutoGPT：https://github.com/Significant-Gravitas/AutoGPT
+AutoGPT官方文档：https://docs.agpt.co/
+
+4.swarm：https://github.com/openai/swarm
+
+---
+### 开发工具 
+1.https://github.com/lm-sys/FastChat
 
 
+---
 ### workflow开发框架
 
 1.dify：https://github.com/langgenius/dify
@@ -54,8 +89,22 @@ Langflow官方文档：https://docs.langflow.org/
 ---
 ### 相关开源项目
 
-1.Awesome-Chinese-LLM：：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
+1.Awesome-Chinese-LLM：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 
+2.awesome-production-llm：https://github.com/jihoo-kim/awesome-production-llm
+
+---
 ### 其他资源
-- 1.waytoagi：https://www.waytoagi.com/prompts-wiki
-2.
+
+1.waytoagi：https://www.waytoagi.com/prompts-wiki
+
+2.MedicalGPT：https://github.com/shibing624/MedicalGPT
+
+3.https://github.com/tongji-kgllm/RAG-Survey
+
+
+
+
+
+
+
