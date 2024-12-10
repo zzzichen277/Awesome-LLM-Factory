@@ -17,6 +17,10 @@
 
 2.Xtuner:https://github.com/InternLM/xtuner
 
+3.unsloth：https://github.com/unslothai/unsloth
+
+4.OpenRLHF：https://github.com/OpenRLHF/OpenRLHF/blob/main/README_zh.md
+
 ---
 ### 推理框架
 
@@ -25,6 +29,8 @@
 2.TensorRT-LLM：https://github.com/NVIDIA/TensorRT-LLM
 
 3.SGLang：https://github.com/sgl-project/sglang
+
+#Awesome-LLM-Inference仓库：https://github.com/DefTruth/Awesome-LLM-Inference
 
 ---
 ### 评估框架
@@ -47,11 +53,14 @@ ragas官方文档：https://docs.ragas.io/en/stable/
 ### RAG开源项目
 1.GraphRAG：https://github.com/microsoft/graphrag
 
+https://github.com/severian42/GraphRAG-Local-UI
+
+
 2.RAGFlow：https://github.com/infiniflow/ragflow
 
 3.
 
-
+#RAG-Survey仓库：https://github.com/hymie122/RAG-Survey
 
 ---
 ### Agent开源框架
@@ -66,7 +75,14 @@ MetaGPT中文文档：https://github.com/geekan/MetaGPT/blob/main/docs/README_CN
 3.AutoGPT：https://github.com/Significant-Gravitas/AutoGPT
 AutoGPT官方文档：https://docs.agpt.co/
 
-4.swarm：https://github.com/openai/swarm
+4.AgentGPT：https://github.com/reworkd/AgentGPT
+
+5.swarm：https://github.com/openai/swarm
+
+
+
+#Awesome-AI-Agents仓库：https://github.com/Jenqyang/Awesome-AI-Agents
+#awesome-ai-agents仓库：https://github.com/e2b-dev/awesome-ai-agents
 
 ---
 ### 开发工具 
