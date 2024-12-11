@@ -55,6 +55,7 @@ ragas官方文档：https://docs.ragas.io/en/stable/
 
 https://github.com/severian42/GraphRAG-Local-UI
 
+优化版nano-graphrag：https://github.com/gusye1234/nano-graphrag
 
 2.RAGFlow：https://github.com/infiniflow/ragflow
 
