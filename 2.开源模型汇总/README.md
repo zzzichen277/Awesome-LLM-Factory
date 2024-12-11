@@ -34,15 +34,14 @@ Phi-3.5系列:https://github.com/microsoft/Phi-3CookBook
 
 5.OLMoE：https://github.com/allenai/OLMoE
 
-[1] 权重：https://huggingface.co/allenai/OLMoE-1B-7B-0924
+权重地址：https://huggingface.co/allenai/OLMoE-1B-7B-0924
 
-[2] 数据：https://huggingface.co/datasets/allenai/OLMoE-mix-0924
+数据地址：https://huggingface.co/datasets/allenai/OLMoE-mix-0924
 
-[3] 代码：https://github.com/allenai/OLMoE
+训练日志：https://wandb.ai/ai2-llm/olmoe/reports/OLMoE-1B-7B-0924--Vmlldzo4OTcyMjU3
 
-[4] 日志：https://wandb.ai/ai2-llm/olmoe/reports/OLMoE-1B-7B-0924--Vmlldzo4OTcyMjU3
+论文OLMoE: Open Mixture-of-Experts Language Models：https://arxiv.org/pdf/2409.02060
 
-[5] 论文：https://arxiv.org/pdf/2409.02060
 
 ---
 ### VLM
@@ -73,6 +72,18 @@ MiniCPM-V 2.0：https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md#mini
 CogVLM系列：https://github.com/THUDM/CogVLM
 
 官方文档：https://zhipu-ai.feishu.cn/wiki/BI0SwUN8ligIxokGauMc5rYBn5f
+
+5.InternVL2系列：
+
+技术报告InternVL 1 Report：https://arxiv.org/pdf/2312.14238 (论文InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks)
+
+技术报告InternVL 1.5 Report：https://arxiv.org/pdf/2404.16821 (论文How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites)
+
+技术报告InternVL 2 Report：https://internvl.github.io/blog/2024-07-02-InternVL-2.0/
+
+相关blog:https://zhuanlan.zhihu.com/p/702481058
+
+
 
 ---
 ### Audio/Video
