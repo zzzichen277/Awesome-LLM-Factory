@@ -110,6 +110,8 @@ Langflow官方文档：https://docs.langflow.org/
 
 2.awesome-production-llm：https://github.com/jihoo-kim/awesome-production-llm
 
+3.Awesome-LLM:https://github.com/Hannibal046/Awesome-LLM
+
 ---
 ### 其他资源
 
