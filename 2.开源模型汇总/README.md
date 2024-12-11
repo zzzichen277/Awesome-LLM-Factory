@@ -16,6 +16,8 @@ ChatGLM-6B：https://github.com/THUDM/ChatGLM-6B
 
 InternLM2.5：https://github.com/InternLM/InternLM/blob/main/README_zh-CN.md#model-zoo
 
+权重地址： https://huggingface.co/collections/internlm/internlm25-66853f32717072d17581bc13
+
 技术报告InternLM2 Technical Report：https://arxiv.org/pdf/2403.17297
 
 3.DeepSeek-V2.5系列：https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210
@@ -67,7 +69,10 @@ MiniCPM-V 2.0：https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md#mini
 
 权重地址：https://huggingface.co/collections/deepseek-ai/deepseek-vl-65f295948133d9cf92b706d3
 
+4.CogVLM2系列：https://github.com/THUDM/CogVLM2
+CogVLM系列：https://github.com/THUDM/CogVLM
 
+官方文档：https://zhipu-ai.feishu.cn/wiki/BI0SwUN8ligIxokGauMc5rYBn5f
 
 ---
 ### Audio/Video
