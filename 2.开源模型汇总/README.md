@@ -4,6 +4,8 @@
 
 论文ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools：https://arxiv.org/pdf/2406.12793
 
+权重地址：https://huggingface.co/THUDM/glm-4-9b-chat
+
 ChatGLM2-6B：https://github.com/THUDM/ChatGLM2-6B/tree/main
 ChatGLM-6B：https://github.com/THUDM/ChatGLM-6B
 
@@ -14,9 +16,32 @@ ChatGLM-6B：https://github.com/THUDM/ChatGLM-6B
 ---
 ### VLM
 
-1.Qwen-vl系列：
+1.Qwen2-VL系列：https://github.com/QwenLM/Qwen2-VL
 
-2.
+论文Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution：https://arxiv.org/pdf/2409.12191
+
+2.MiniCPM-V系列：https://github.com/OpenBMB/MiniCPM-V
+
+MiniCPM-V 2.6：https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md#minicpm-v-26
+
+MiniCPM-Llama3-V 2.5：https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md#minicpm-llama3-v-25
+
+MiniCPM-V 2.0：https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md#minicpm-v-20
+
+论文MiniCPM-V: A GPT-4V Level MLLM on Your Phone:https://arxiv.org/pdf/2408.01800
+
+教程MiniCPM-CookBook:https://github.com/OpenBMB/MiniCPM-CookBook
+
+---
+### Audio
+1.Qwen2-Audio：https://github.com/QwenLM/Qwen2-Audio/blob/main/README_CN.md
+
+论文Qwen2-Audio Technical Report：https://arxiv.org/pdf/2407.10759
+
+简介：作为一个大规模音频语言模型，Qwen2-Audio能够接受各种音频信号输入，并根据语音指令执行音频分析或直接响应文本。
+介绍两种不同的音频交互模式：语音聊天voice chat和音频分析audio analysis。
+语音聊天：用户可以自由地与Qwen2-Audio进行语音互动，而无需文本输入；
+音频分析：用户可以在互动过程中提供音频和文本指令对音频进行分析；
 
 ---
 ### 模型训练
