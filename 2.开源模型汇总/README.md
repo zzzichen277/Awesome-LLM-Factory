@@ -6,6 +6,8 @@
 
 权重地址：https://huggingface.co/THUDM/glm-4-9b-chat
 
+使用文档：https://zhipu-ai.feishu.cn/wiki/RuMswanpkiRh3Ok4z5acOABBnjf
+
 ChatGLM2-6B：https://github.com/THUDM/ChatGLM2-6B/tree/main
 ChatGLM-6B：https://github.com/THUDM/ChatGLM-6B
 
@@ -97,6 +99,11 @@ MiniCPM-V 2.0：https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md#mini
 简介：
 VideoLLaMA 是一个音视频语言模型，专注于视频理解，包括空间-时间建模和音频理解。（1）VideoLLaMA2，性能更强，代码库更简单（2）增强了在视频和音频相关任务中的时空建模和音频理解能力（3）在各种音频或视频相关的基准测试中表现出竞争力
 
+4.CogVideo：https://github.com/THUDM/CogVideo
+
+论文CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer:https://arxiv.org/pdf/2408.06072
+
+使用文档：https://zhipu-ai.feishu.cn/wiki/DHCjw1TrJiTyeukfc9RceoSRnCh
 
 
 ---
