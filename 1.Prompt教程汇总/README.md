@@ -19,3 +19,14 @@ https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 ### 4.《GPT提示词大全》进阶版 
 
 https://jvuw7eyf9vx.feishu.cn/docx/W9andW8P0oaBGcxyL2fc2LNAnSg
+
+
+### 5.写prompt的经验分享
+5.1写了一个月提示词（Prompt）后的感悟！！ https://mp.weixin.qq.com/s/jPIvSQTgc_OqFFoKb_3t0Q
+
+怎么样写 prompt？写好 prompt = 流程化（流程化=拆分目标+细化步骤+简化冗余）+用词具体（可衡量+行为/动作+标准）+用词精准
+
+
+### 6.Thinking Claude- anthropic_thinking_protocol
+
+https://github.com/richards199999/Thinking-Claude
