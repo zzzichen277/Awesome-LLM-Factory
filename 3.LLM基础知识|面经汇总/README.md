@@ -13,4 +13,4 @@ https://mp.weixin.qq.com/s/qTXXEUeEbpR8EpIPoSAx5g
 
 5.国内大模型公司，粗略面经+感受+一些包裹：https://zhuanlan.zhihu.com/p/657826357
 
-
+6.https://github.com/km1994/LLMs_interview_notes
