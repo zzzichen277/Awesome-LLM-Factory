@@ -81,14 +81,19 @@ AutoGPT官方文档：https://docs.agpt.co/
 5.swarm：https://github.com/openai/swarm
 
 
-
 #Awesome-AI-Agents仓库：https://github.com/Jenqyang/Awesome-AI-Agents
+
 #awesome-ai-agents仓库：https://github.com/e2b-dev/awesome-ai-agents
 
 ---
 ### 开发工具 
-1.https://github.com/lm-sys/FastChat
+1.FastChat：https://github.com/lm-sys/FastChat
 
+2.one-api：https://github.com/songquanpeng/one-api
+
+简介：OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. 
+
+3.openai：https://github.com/openai/openai-python/tree/main
 
 ---
 ### workflow开发框架
@@ -111,6 +116,10 @@ Langflow官方文档：https://docs.langflow.org/
 2.awesome-production-llm：https://github.com/jihoo-kim/awesome-production-llm
 
 3.Awesome-LLM:https://github.com/Hannibal046/Awesome-LLM
+
+4.awesome-LLM-resourses：https://github.com/WangRongsheng/awesome-LLM-resourses
+
+简介：🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
 
 ---
 ### 其他资源
