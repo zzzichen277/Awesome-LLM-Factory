@@ -30,3 +30,10 @@ https://jvuw7eyf9vx.feishu.cn/docx/W9andW8P0oaBGcxyL2fc2LNAnSg
 ### 6.Thinking Claude- anthropic_thinking_protocol
 
 https://github.com/richards199999/Thinking-Claude
+
+
+###7. chatgpt_system_prompt
+
+https://github.com/LouisShark/chatgpt_system_prompt
+
+简介：一系列GPT系统提示和各种提示注入/泄露知识。
