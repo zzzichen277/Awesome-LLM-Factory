@@ -19,3 +19,8 @@ https://mp.weixin.qq.com/s/qTXXEUeEbpR8EpIPoSAx5g
 7.大模型面试百问百答 https://zhuanlan.zhihu.com/p/686761933
 
 https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247528129&idx=1&sn=8e6c1f364a8f7b9ef8ddfb5a8b01ac7f&scene=21&token=1304916803&lang=zh_CN#wechat_redirect
+
+8.国内大模型公司，粗略面经+感受+一些包裹：https://zhuanlan.zhihu.com/p/657826357
+
+https://mp.weixin.qq.com/s/_OS391OkzzuSn3ZBci-BQQ
+
