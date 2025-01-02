@@ -24,3 +24,5 @@ https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247528129&idx=1&sn=8e6c1f
 
 https://mp.weixin.qq.com/s/_OS391OkzzuSn3ZBci-BQQ
 
+9.大模型来自面试的体会和分享 2024版：https://mp.weixin.qq.com/s/LtGnJWa-R_BIKKncVNPxvQ
+
